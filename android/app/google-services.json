@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "445756305221",
+    "project_id": "nativeloginflutter",
+    "storage_bucket": "nativeloginflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445756305221:android:5a0bab8921853ea2f8182c",
+        "android_client_info": {
+          "package_name": "com.example.nativeloginflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445756305221-hei20g9dn0i8k1qba65bvbgu50r49a41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nativeloginflutter",
+            "certificate_hash": "bbc82fcb61fae9f94f4bd32cc4fb1da7aba43363"
+          }
+        },
+        {
+          "client_id": "445756305221-5qthfpqnolmca6g4g63913g9s1cgv0dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHt4i6itHy1H8Lo9rb8a1kGYqsIT_cz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445756305221-5qthfpqnolmca6g4g63913g9s1cgv0dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
